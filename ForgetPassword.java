@@ -8,10 +8,7 @@ import project.*;
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 
-/**
- *
- * @author Sruthi
- */
+
 public class forgetPassword extends javax.swing.JFrame {
 
     /**
