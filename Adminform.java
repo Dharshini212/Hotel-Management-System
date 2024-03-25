@@ -10,10 +10,7 @@ import javax.swing.table.TableModel;
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 
-/**
- *
- * @author Sruthi
- */
+
 public class adminHome extends javax.swing.JFrame {
 
     /**
